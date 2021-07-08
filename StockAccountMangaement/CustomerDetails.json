@@ -1,0 +1,69 @@
+{
+  "CustomerRecordsList": [
+    {
+      "CustomerId": "1",
+      "UserName": "NEO",
+      "StockDetails": {
+        "HDFCBANK": 0,
+        "UNIONBANK": 7,
+        "CANARABANK": 0,
+        "AXISBANK": 0,
+        "ICICIBANK": 0
+      },
+      "Shares": 10,
+      "Amount": 100000
+    },
+    {
+      "CustomerId": "2",
+      "UserName": "BELLA",
+      "StockDetails": {
+        "HDFCBANK": 0,
+        "UNIONBANK": 0,
+        "CANARABANK": 0,
+        "AXISBANK": 11,
+        "ICICIBANK": 0
+      },
+      "Shares": 24,
+      "Amount": 132400
+    },
+    {
+      "CustomerId": "3",
+      "UserName": "SAM",
+      "StockDetails": {
+        "HDFCBANK": 13,
+        "UNIONBANK": 0,
+        "CANARABANK": 0,
+        "AXISBANK": 0,
+        "ICICIBANK": 0
+      },
+      "Shares": 8,
+      "Amount": 186342
+    },
+    {
+      "CustomerId": "4",
+      "UserName": "JENNI",
+      "StockDetails": {
+        "HDFCBANK": 0,
+        "UNIONBANK": 0,
+        "CANARABANK": 4,
+        "AXISBANK": 0,
+        "ICICIBANK": 0
+      },
+      "Shares": 6,
+      "Amount": 12435
+    },
+    {
+      "CustomerId": "5",
+      "UserName": "JACK",
+      "StockDetails": {
+        "HDFCBANK": 0,
+        "UNIONBANK": 0,
+        "CANARABANK": 0,
+        "AXISBANK": 0,
+        "ICICIBANK": 8
+      },
+      "Shares": 19,
+      "Amount": 17842
+    }
+  ]
+}

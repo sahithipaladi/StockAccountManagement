@@ -1,0 +1,25 @@
+{
+  "StockRecordsList": [
+    {
+      "Symbol": "HDFCBANK",
+      "NumberOfShares": 25000,
+      "DateTime": "",
+      "StockValue": 443294834,
+      "StockPrice": 1500
+    },
+    {
+      "Symbol": "ICICIBANK",
+      "NumberOfShares": 32000,
+      "DateTime": "",
+      "StockValue": 431656833,
+      "StockPrice": 1300
+    },
+    {
+      "Symbol": "CANARABANK",
+      "NumberOfShares": 73000,
+      "DateTime": "",
+      "StockValue": 342848484,
+      "StockPrice": 1000
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "TransactionRecordsList": [
+    {
+      "CustomerId": "3",
+      "StockName": "UNIONBANK",
+      "UserName": "NEO",
+      "Buy": 13,
+      "Sell": 0,
+      "ShareValue": 10000
+    },
+    {
+      "CustomerId": "2",
+      "StockName": "AXISBANK",
+      "UserName": "JACK",
+      "Buy": 0,
+      "Sell": 8,
+      "ShareValue": 12500
+    }
+  ]
+
+}
