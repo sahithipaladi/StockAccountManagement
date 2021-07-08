@@ -1,0 +1,15 @@
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\bin\Debug\netcoreapp3.1\StockAccountMangaement.exe
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\bin\Debug\netcoreapp3.1\StockAccountMangaement.deps.json
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\bin\Debug\netcoreapp3.1\StockAccountMangaement.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\bin\Debug\netcoreapp3.1\StockAccountMangaement.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\bin\Debug\netcoreapp3.1\StockAccountMangaement.dll
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\bin\Debug\netcoreapp3.1\StockAccountMangaement.pdb
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.csproj.CopyComplete
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.dll
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.pdb
+C:\Users\Sahithi.P\source\repos\StockAccountMangaement\StockAccountMangaement\obj\Debug\netcoreapp3.1\StockAccountMangaement.genruntimeconfig.cache

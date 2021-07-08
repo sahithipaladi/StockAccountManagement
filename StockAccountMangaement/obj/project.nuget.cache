@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbUcSe2XgGYICNgDg1EWJiSHQQVws264rGp1v44SG3s5P3GmUXkgvwZKgt3tyndg3WBYl6Af7XqpD45ISR/4mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sahithi.P\\source\\repos\\StockAccountMangaement\\StockAccountMangaement\\StockAccountMangaement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sahithi.P\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

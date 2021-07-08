@@ -1,0 +1,29 @@
+{
+  "Stocks": [
+    {
+      "Name": "HDFCBANK",
+      "Volume": 29,
+      "Price": 1491
+    },
+    {
+      "Name": "UNIONBANK",
+      "Volume": 26,
+      "Price": 1108
+    },
+    {
+      "Name": "CANARABANK",
+      "Volume": 24,
+      "Price": 1227
+    },
+    {
+      "Name": "AXISBANK",
+      "Volume": 32,
+      "Price": 1113
+    },
+    {
+      "Name": "ICICIBANK",
+      "Volume": 43,
+      "Price": 2005
+    }
+  ]
+}
