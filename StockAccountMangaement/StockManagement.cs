@@ -6,6 +6,7 @@ namespace StockAccountManagement
 {
     class StockManagement
     {
+        //listing the stock records
         public List<StockRecords> Stocks { get; set; }
 
         public class StockRecords
